@@ -1,0 +1,27 @@
+/* selettore tag */
+
+
+body {
+
+    background-color:#D2E9E9 ;
+}
+
+.navbar {
+    color:red ;
+}
+
+#general_title  {
+    color: blue;
+}
+
+.navbar ul li {
+    list-style-type: none;
+}
+
+.main_images {
+     border: 2px solid; red;
+     width: 50%;
+     max-width: ;
+
+
+    }
